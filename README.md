@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+# தமிழ்நாடு மாணவர் கணினித் திட்ட அகராதி
 
-You can use the [editor on GitHub](https://github.com/ThaniThamizhAkarathiKalanjiyam/tnkt/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+இந்த அகராதி தமிழ்நாடு அரசு, தமிழ்நாட்டு மாணவர்களுக்கு கொடுத்த கணினியில் Excel கோப்பாக இருந்தது அதனை கைபேசியாக்கம் செய்ய வேண்டுமென எண்ணியதன் பொருட்டு இது உருவாக்கப்பட்டு உள்ளது.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+இது மாணவர்களுக்கும், ஆசிரியர்களுக்கும் பயன்படும். ஆகவே இந்த அகராதியை கைபேசியாக்கம் செய்கிறேன்.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ThaniThamizhAkarathiKalanjiyam/tnkt/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+இப்படிக்கு,
+பிச்சைமுத்து மு.
